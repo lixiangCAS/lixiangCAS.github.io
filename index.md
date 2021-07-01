@@ -11,9 +11,34 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Education
+Doctor of Philosophy, Grain Science        Aug. 2019
+Kansas State University, Manhattan, KS, USA	
+
+Master of Science, Biosystem Engineering   May. 2017
+Clemson University, Clemson, SC, USA
+	
+Bachelor of Engineering, Environmental Engineering   Jun. 2015
+Tongji University, Shanghai, PRC	
+
+### Publications
+Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, Nishanth Tharayil, Jiale Huang, Yi Zheng, “Degradation of aromatic compounds and lignin by marine protist Thraustochytrium striatum”, Process Biochemistry 107 (2021): 13-17.
+Guilin Du, Guilong Zhang, Jiping Shi, Jingxian Zhang, Zhiguo Ma, Xiangcen Liu, Chenyang Yuan, Xiang Li*, and Baoguo Zhang*.  "Keystone Taxa Lactiplantibacillus and Lacticaseibacillus Directly Improve the Ensiling Performance and Microflora Profile in Co-Ensiling Cabbage Byproduct and Rice Straw" Microorganisms 9, no. 5 (2021): 1099.
+Li Liu, Yancui Wang, Na Wang, Xiaomiao Chen, Baoguo Li, Jiping Shi*, Xiang Li*, “Process optimization of acetone-butanol-ethanol fermentation integrated with pervaporation for enhanced butanol production”, Biochemical Engineering Journal 173 (2021):108070.
+Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, and Yi Zheng. "Black Liquor Valorization by Using Marine Protist Thraustochytrium striatum and the Preliminary Metabolic Mechanism Study." ACS Sustainable Chemistry & Engineering 8, no. 4 (2020): 1786-1796.
+Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, and Yi Zheng. "Simultaneous depolymerization and fermentation of lignin into value-added products by the marine protist, Thraustochytrium striatum." Algal Research 46 (2020): 101773.
+Xiang Li, and Yi Zheng. "Biotransformation of lignin: Mechanisms, applications and future work." Biotechnology progress 36, no. 1 (2020): e2922.
+Xiang Li, Yi Zheng. "Investigation of dynamic changes of substrate features on enzymatic hydrolysis of lignocellulosic biomass." Industrial Crops and Products 111 (2018): 414-421.
+Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, Adam S. Klett, Mark Thies, and Yi Zheng. "Inhibitory effects of lignin on enzymatic hydrolysis: The role of lignin chemistry and molecular weight." Renewable Energy 123 (2018): 664-674.
+Xiang Li, Yi Zheng. "Lignin-enzyme interaction: Mechanism, mitigation approach, modeling, and research prospects." Biotechnology advances 35, no. 4 (2017): 466-489.
+Rui Xiao, Xiang Li, Yi Zheng, 2019. “Investigation on the effects of cultivation conditions, fed-batch operation, and enzymatic hydrolysate of corn stover on the astaxanthin production by Thraustochytrium striatum”. Algal Research 39 (2019): 101475.
+Yunlong Guo, Yijing Gao, Xiang Li, Guilin Zhuang, Kuncan Wang, Yi Zheng, Daohua Sun, Jiale Huang, and Qingbiao Li, "Catalytic benzene oxidation by biogenic Pd nanoparticles over 3D-ordered mesoporous CeO2." Chemical Engineering Journal 362 (2019): 41-52.
+Rui Xiao, Xiang Li, and Yi Zheng. "Enzyme production by a fungoid marine protist, Thraustochytrium striatum." European journal of protistology 66 (2018): 136-148.
+Rui Xiao, Xiang Li, and Yi Zheng. “Comprehensive Study of Cultivation Conditions and Methods on Lipid Accumulation of a Marine Protist, Thraustochytrium striatum”. Protist, 169.4 (2018): 451-465.
+Rui Xiao, Xi Yang, Mi Li, Xiang Li, Yanzhang Wei, Min Cao, Arthur Ragauskas, Mark Thies, Junhuan Ding, and Yi Zheng. “Investigation of composition, structure and bioactivity of extracellular polymeric substances from original and stress-induced strains of Thraustochytrium striatum.” Carbohydrate polymers 195 (2018): 515-524.
+Ya-nan Dong, Xiang Li, Yuxiong Huang, Hongtao Wang, and Fengting Li. "Coagulation and Dissolution of Zinc Oxide Nanoparticles in the Presence of Humic Acid Under Different pH Values." Environmental Engineering Science33, no. 5 (2016): 347-353. (As co-first author)
+Hongtao Wang, Ya-nan Dong, Miao Zhu, Xiang Li, Arturo A. Keller, Tao Wang, and Fengting Li. "Heteroaggregation of engineered nanoparticles and kaolin clays in aqueous environments." Water research 80 (2015): 130-138.
+
 
 - Bulleted
 - List
