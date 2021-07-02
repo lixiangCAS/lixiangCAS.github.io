@@ -1,19 +1,12 @@
-## Welcome to GitHub Pages
+## LI Xiang
 
 You can use the [editor on GitHub](https://github.com/lixiangCAS/lixiangCAS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Research area
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-### Research area
-
-### Education
+## Education
 Doctor of Philosophy, Grain Science        Aug. 2019
 Kansas State University, Manhattan, KS, USA	
 
@@ -23,13 +16,13 @@ Clemson University, Clemson, SC, USA
 Bachelor of Engineering, Environmental Engineering   Jun. 2015
 Tongji University, Shanghai, PRC	
 
-### Conference presentations
+## Conference presentations
 Xiang Li, Mi Li, Yunqiao Pu, Arthur Ragauskas, Mark Blenner, Joshua Yuan and Yi Zheng, “Systematic analysis on lignin degradation mechanisms and metabolic pathways in marine protist, Thraustochytrium striatum”, presented at 41st Symposium on Biotechnology for Fuels and Chemicals, Seattle, Washington, USA.
 Xiang Li, Jian Shi, Lalitendu Das, Nishtanth Tharayil, Yi Zheng, “A Novel Platform for Bioupgrading of Lignin to Valuable Nutraceuticals and Pharmaceuticals”, presented at 2018 ASABE Annual International Meeting, Detroit, Michigan, USA
 Xiang Li, Yi Zheng, “Unveiling New Insights of Enzymatic Hydrolysis Affected by Cellulose Reactivity and Lignin”, presented at 2017 ASABE Annual International Meeting, Spokane, Washington, USA.
 Xiang Li, Yi Zheng, “Investigation of the nature of lignin and enzyme interaction”, presented at 2016 ASABE Annual International Meeting, Orlando, Florida, USA. 
 
-### Publications
+## Publications
 Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, Nishanth Tharayil, Jiale Huang, Yi Zheng, “Degradation of aromatic compounds and lignin by marine protist Thraustochytrium striatum”, Process Biochemistry 107 (2021): 13-17.
 Guilin Du, Guilong Zhang, Jiping Shi, Jingxian Zhang, Zhiguo Ma, Xiangcen Liu, Chenyang Yuan, Xiang Li*, and Baoguo Zhang*.  "Keystone Taxa Lactiplantibacillus and Lacticaseibacillus Directly Improve the Ensiling Performance and Microflora Profile in Co-Ensiling Cabbage Byproduct and Rice Straw" Microorganisms 9, no. 5 (2021): 1099.
 Li Liu, Yancui Wang, Na Wang, Xiaomiao Chen, Baoguo Li, Jiping Shi*, Xiang Li*, “Process optimization of acetone-butanol-ethanol fermentation integrated with pervaporation for enhanced butanol production”, Biochemical Engineering Journal 173 (2021):108070.
@@ -47,25 +40,12 @@ Rui Xiao, Xi Yang, Mi Li, Xiang Li, Yanzhang Wei, Min Cao, Arthur Ragauskas, Mar
 Ya-nan Dong, Xiang Li, Yuxiong Huang, Hongtao Wang, and Fengting Li. "Coagulation and Dissolution of Zinc Oxide Nanoparticles in the Presence of Humic Acid Under Different pH Values." Environmental Engineering Science33, no. 5 (2016): 347-353. (As co-first author)
 Hongtao Wang, Ya-nan Dong, Miao Zhu, Xiang Li, Arturo A. Keller, Tao Wang, and Fengting Li. "Heteroaggregation of engineered nanoparticles and kaolin clays in aqueous environments." Water research 80 (2015): 130-138.
 
-### Honors & awards
+## Honors & awards
 Student Paper Competition Award, the 4th place, Association of Overseas Chinese Agricultural, Biological, and Food Engineers	Jul. 2018
 Thomas Keinath Fellowship, Water Environment Association of South Carolina	Mar. 2018
 George B. Nutt Fellowship, Department of Environmental Engineering and Earth Sciences, Clemson University	2017-2018
 Yang Qin &VAG Scholarship of College of Environmental Science and Engineering, Tongji University	Sep. 2013
 Tongji University Learning Scholarship, the first class	2011-2013
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
