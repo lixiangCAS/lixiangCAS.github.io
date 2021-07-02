@@ -12,7 +12,7 @@
 	</tr>
 	</table>
 
-## Research area
+## Research areas
 Dr. Li has been working on biofuel, biomanufacturing, environmental microbiology and some other related areas. The current research projects include the following:
 1. Lignin bioconversion and upgrading into value-added bioproducts
 2. Bioremediation of water and soil contaminated with aromatic compounds
@@ -62,7 +62,7 @@ Xiang Li, Yi Zheng, “Unveiling New Insights of Enzymatic Hydrolysis Affected b
 Xiang Li, Yi Zheng, “Investigation of the nature of lignin and enzyme interaction”, presented at 2016 ASABE Annual International Meeting, Orlando, Florida, USA. 
 
 ## Honors & awards
-Student Paper Competition Award, the 4th place, Association of Overseas Chinese Agricultural, Biological, and Food Engineers	Jul. 2018
+Student Paper Competition Award, Association of Overseas Chinese Agricultural, Biological, and Food Engineers	Jul. 2018
 
 Thomas Keinath Fellowship, Water Environment Association of South Carolina	Mar. 2018
 
