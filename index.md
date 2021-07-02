@@ -11,7 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-## Education
+### Research area
+
+### Education
 Doctor of Philosophy, Grain Science        Aug. 2019
 Kansas State University, Manhattan, KS, USA	
 
