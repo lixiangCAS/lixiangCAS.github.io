@@ -1,8 +1,9 @@
 ## LI Xiang
 
 You can use the [editor on GitHub](https://github.com/lixiangCAS/lixiangCAS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Shanghai Advanced Research Institute, Chinese Academy of Sciences
+Haike Road, No.99, Pudong New Are, Shanghai, China
+Email: lix@sari.ac.cn
 
 ## Research area
 
