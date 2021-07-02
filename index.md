@@ -1,9 +1,8 @@
-## LI Xiang
-
 <table border="0">
 	<tr>
 		<td width="75%">
-			<h1>Shanghai Advanced Research Institute, Chinese Academy of Sciences</h1>
+			<h1>LI Xiang</h1>
+			<p><b>Shanghai Advanced Research Institute, Chinese Academy of Sciences</b></p>
 			<p><b>Haike Road, No.99, Pudong New Area, Shanghai, China</b></p>
 			<p><b>Email: lix@sari.ac.cn</b></p>
 		</td>
@@ -12,12 +11,6 @@
 		</td>
 	</tr>
 	</table>
-
-Shanghai Advanced Research Institute, Chinese Academy of Sciences
-
-Haike Road, No.99, Pudong New Area, Shanghai, China
-
-Email: lix@sari.ac.cn
 
 ## Research area
 
