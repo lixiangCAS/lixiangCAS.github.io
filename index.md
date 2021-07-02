@@ -2,7 +2,7 @@
 
 Shanghai Advanced Research Institute, Chinese Academy of Sciences
 
-Haike Road, No.99, Pudong New Are, Shanghai, China
+Haike Road, No.99, Pudong New Area, Shanghai, China
 
 Email: lix@sari.ac.cn
 
