@@ -27,7 +27,7 @@ Bachelor of Engineering, Tongji University, China       Jun. 2015
 
 ## Selected publications
 Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, Nishanth Tharayil, Jiale Huang, Yi Zheng, [“Degradation of aromatic compounds and lignin by marine protist Thraustochytrium striatum”](https://www.sciencedirect.com/science/article/pii/S1359511321001495), Process Biochemistry 107 (2021): 13-17.
-)
+
 Guilin Du, Guilong Zhang, Jiping Shi, Jingxian Zhang, Zhiguo Ma, Xiangcen Liu, Chenyang Yuan, Xiang Li*, and Baoguo Zhang*.  "Keystone Taxa Lactiplantibacillus and Lacticaseibacillus Directly Improve the Ensiling Performance and Microflora Profile in Co-Ensiling Cabbage Byproduct and Rice Straw" Microorganisms 9, no. 5 (2021): 1099.
 
 Li Liu, Yancui Wang, Na Wang, Xiaomiao Chen, Baoguo Li, Jiping Shi*, Xiang Li*, “Process optimization of acetone-butanol-ethanol fermentation integrated with pervaporation for enhanced butanol production”, Biochemical Engineering Journal 173 (2021):108070.
