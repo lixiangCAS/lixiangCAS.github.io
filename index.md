@@ -21,6 +21,12 @@ Clemson University, Clemson, SC, USA
 Bachelor of Engineering, Environmental Engineering   Jun. 2015
 Tongji University, Shanghai, PRC	
 
+### Conference presentations
+Xiang Li, Mi Li, Yunqiao Pu, Arthur Ragauskas, Mark Blenner, Joshua Yuan and Yi Zheng, “Systematic analysis on lignin degradation mechanisms and metabolic pathways in marine protist, Thraustochytrium striatum”, presented at 41st Symposium on Biotechnology for Fuels and Chemicals, Seattle, Washington, USA.
+Xiang Li, Jian Shi, Lalitendu Das, Nishtanth Tharayil, Yi Zheng, “A Novel Platform for Bioupgrading of Lignin to Valuable Nutraceuticals and Pharmaceuticals”, presented at 2018 ASABE Annual International Meeting, Detroit, Michigan, USA
+Xiang Li, Yi Zheng, “Unveiling New Insights of Enzymatic Hydrolysis Affected by Cellulose Reactivity and Lignin”, presented at 2017 ASABE Annual International Meeting, Spokane, Washington, USA.
+Xiang Li, Yi Zheng, “Investigation of the nature of lignin and enzyme interaction”, presented at 2016 ASABE Annual International Meeting, Orlando, Florida, USA. 
+
 ### Publications
 Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, Nishanth Tharayil, Jiale Huang, Yi Zheng, “Degradation of aromatic compounds and lignin by marine protist Thraustochytrium striatum”, Process Biochemistry 107 (2021): 13-17.
 Guilin Du, Guilong Zhang, Jiping Shi, Jingxian Zhang, Zhiguo Ma, Xiangcen Liu, Chenyang Yuan, Xiang Li*, and Baoguo Zhang*.  "Keystone Taxa Lactiplantibacillus and Lacticaseibacillus Directly Improve the Ensiling Performance and Microflora Profile in Co-Ensiling Cabbage Byproduct and Rice Straw" Microorganisms 9, no. 5 (2021): 1099.
