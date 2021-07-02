@@ -9,14 +9,12 @@ Email: lix@sari.ac.cn
 ## Research area
 
 ## Education
-Doctor of Philosophy, Grain Science        Aug. 2019
-Kansas State University, Manhattan, KS, USA	
-
-Master of Science, Biosystem Engineering   May. 2017
-Clemson University, Clemson, SC, USA
+Doctor of Philosophy, Kansas State University, USA      Aug. 2019
 	
-Bachelor of Engineering, Environmental Engineering   Jun. 2015
-Tongji University, Shanghai, PRC	
+Master of Science, Clemson University, USA              May. 2017
+
+Bachelor of Engineering, Tongji University, China       Jun. 2015
+	
 
 ## Conference presentations
 Xiang Li, Mi Li, Yunqiao Pu, Arthur Ragauskas, Mark Blenner, Joshua Yuan and Yi Zheng, “Systematic analysis on lignin degradation mechanisms and metabolic pathways in marine protist, Thraustochytrium striatum”, presented at 41st Symposium on Biotechnology for Fuels and Chemicals, Seattle, Washington, USA.
