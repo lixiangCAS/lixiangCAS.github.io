@@ -45,6 +45,12 @@ Rui Xiao, Xi Yang, Mi Li, Xiang Li, Yanzhang Wei, Min Cao, Arthur Ragauskas, Mar
 Ya-nan Dong, Xiang Li, Yuxiong Huang, Hongtao Wang, and Fengting Li. "Coagulation and Dissolution of Zinc Oxide Nanoparticles in the Presence of Humic Acid Under Different pH Values." Environmental Engineering Science33, no. 5 (2016): 347-353. (As co-first author)
 Hongtao Wang, Ya-nan Dong, Miao Zhu, Xiang Li, Arturo A. Keller, Tao Wang, and Fengting Li. "Heteroaggregation of engineered nanoparticles and kaolin clays in aqueous environments." Water research 80 (2015): 130-138.
 
+### Honors & awards
+Student Paper Competition Award, the 4th place, Association of Overseas Chinese Agricultural, Biological, and Food Engineers	Jul. 2018
+Thomas Keinath Fellowship, Water Environment Association of South Carolina	Mar. 2018
+George B. Nutt Fellowship, Department of Environmental Engineering and Earth Sciences, Clemson University	2017-2018
+Yang Qin &VAG Scholarship of College of Environmental Science and Engineering, Tongji University	Sep. 2013
+Tongji University Learning Scholarship, the first class	2011-2013
 
 - Bulleted
 - List
