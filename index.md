@@ -13,6 +13,10 @@
 	</table>
 
 ## Research area
+Dr. Li has been working on biofuel, biomanufacturing, environmental microbiology and some other related areas. The current research projects include the following:
+1. Lignin bioconversion and upgrading into value-added bioproducts
+2. Bioremediation of water and soil contaminated with aromatic compounds
+3. Biodegradation of organic solid wastes
 
 ## Education
 Doctor of Philosophy, Kansas State University, USA      Aug. 2019
