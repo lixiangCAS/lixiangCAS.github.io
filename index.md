@@ -14,16 +14,6 @@ Doctor of Philosophy, Kansas State University, USA      Aug. 2019
 Master of Science, Clemson University, USA              May. 2017
 
 Bachelor of Engineering, Tongji University, China       Jun. 2015
-	
-
-## Conference presentations
-Xiang Li, Mi Li, Yunqiao Pu, Arthur Ragauskas, Mark Blenner, Joshua Yuan and Yi Zheng, “Systematic analysis on lignin degradation mechanisms and metabolic pathways in marine protist, Thraustochytrium striatum”, presented at 41st Symposium on Biotechnology for Fuels and Chemicals, Seattle, Washington, USA.
-
-Xiang Li, Jian Shi, Lalitendu Das, Nishtanth Tharayil, Yi Zheng, “A Novel Platform for Bioupgrading of Lignin to Valuable Nutraceuticals and Pharmaceuticals”, presented at 2018 ASABE Annual International Meeting, Detroit, Michigan, USA
-
-Xiang Li, Yi Zheng, “Unveiling New Insights of Enzymatic Hydrolysis Affected by Cellulose Reactivity and Lignin”, presented at 2017 ASABE Annual International Meeting, Spokane, Washington, USA.
-
-Xiang Li, Yi Zheng, “Investigation of the nature of lignin and enzyme interaction”, presented at 2016 ASABE Annual International Meeting, Orlando, Florida, USA. 
 
 ## Selected publications
 Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, Nishanth Tharayil, Jiale Huang, Yi Zheng, “Degradation of aromatic compounds and lignin by marine protist Thraustochytrium striatum”, Process Biochemistry 107 (2021): 13-17.
@@ -52,6 +42,14 @@ Rui Xiao, Xiang Li, and Yi Zheng. “Comprehensive Study of Cultivation Conditio
 
 Rui Xiao, Xi Yang, Mi Li, Xiang Li, Yanzhang Wei, Min Cao, Arthur Ragauskas, Mark Thies, Junhuan Ding, and Yi Zheng. “Investigation of composition, structure and bioactivity of extracellular polymeric substances from original and stress-induced strains of Thraustochytrium striatum.” Carbohydrate polymers 195 (2018): 515-524.
 
+## Conference presentations
+Xiang Li, Mi Li, Yunqiao Pu, Arthur Ragauskas, Mark Blenner, Joshua Yuan and Yi Zheng, “Systematic analysis on lignin degradation mechanisms and metabolic pathways in marine protist, Thraustochytrium striatum”, presented at 41st Symposium on Biotechnology for Fuels and Chemicals, Seattle, Washington, USA.
+
+Xiang Li, Jian Shi, Lalitendu Das, Nishtanth Tharayil, Yi Zheng, “A Novel Platform for Bioupgrading of Lignin to Valuable Nutraceuticals and Pharmaceuticals”, presented at 2018 ASABE Annual International Meeting, Detroit, Michigan, USA
+
+Xiang Li, Yi Zheng, “Unveiling New Insights of Enzymatic Hydrolysis Affected by Cellulose Reactivity and Lignin”, presented at 2017 ASABE Annual International Meeting, Spokane, Washington, USA.
+
+Xiang Li, Yi Zheng, “Investigation of the nature of lignin and enzyme interaction”, presented at 2016 ASABE Annual International Meeting, Orlando, Florida, USA. 
 
 ## Honors & awards
 Student Paper Competition Award, the 4th place, Association of Overseas Chinese Agricultural, Biological, and Food Engineers	Jul. 2018
@@ -62,12 +60,4 @@ George B. Nutt Fellowship, Department of Environmental Engineering and Earth Sci
 
 Yang Qin &VAG Scholarship of College of Environmental Science and Engineering, Tongji University	Sep. 2013
 
-Tongji University Learning Scholarship, the first class	2011-2013
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lixiangCAS/lixiangCAS.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
