@@ -46,17 +46,12 @@ Xiang Li, Yi Zheng. "Lignin-enzyme interaction: Mechanism, mitigation approach, 
 
 Rui Xiao, Xiang Li, Yi Zheng, 2019. “Investigation on the effects of cultivation conditions, fed-batch operation, and enzymatic hydrolysate of corn stover on the astaxanthin production by Thraustochytrium striatum”. Algal Research 39 (2019): 101475.
 
-Yunlong Guo, Yijing Gao, Xiang Li, Guilin Zhuang, Kuncan Wang, Yi Zheng, Daohua Sun, Jiale Huang, and Qingbiao Li, "Catalytic benzene oxidation by biogenic Pd nanoparticles over 3D-ordered mesoporous CeO2." Chemical Engineering Journal 362 (2019): 41-52.
-
 Rui Xiao, Xiang Li, and Yi Zheng. "Enzyme production by a fungoid marine protist, Thraustochytrium striatum." European journal of protistology 66 (2018): 136-148.
 
 Rui Xiao, Xiang Li, and Yi Zheng. “Comprehensive Study of Cultivation Conditions and Methods on Lipid Accumulation of a Marine Protist, Thraustochytrium striatum”. Protist, 169.4 (2018): 451-465.
 
 Rui Xiao, Xi Yang, Mi Li, Xiang Li, Yanzhang Wei, Min Cao, Arthur Ragauskas, Mark Thies, Junhuan Ding, and Yi Zheng. “Investigation of composition, structure and bioactivity of extracellular polymeric substances from original and stress-induced strains of Thraustochytrium striatum.” Carbohydrate polymers 195 (2018): 515-524.
 
-Ya-nan Dong, Xiang Li, Yuxiong Huang, Hongtao Wang, and Fengting Li. "Coagulation and Dissolution of Zinc Oxide Nanoparticles in the Presence of Humic Acid Under Different pH Values." Environmental Engineering Science33, no. 5 (2016): 347-353. (As co-first author)
-
-Hongtao Wang, Ya-nan Dong, Miao Zhu, Xiang Li, Arturo A. Keller, Tao Wang, and Fengting Li. "Heteroaggregation of engineered nanoparticles and kaolin clays in aqueous environments." Water research 80 (2015): 130-138.
 
 ## Honors & awards
 Student Paper Competition Award, the 4th place, Association of Overseas Chinese Agricultural, Biological, and Food Engineers	Jul. 2018
