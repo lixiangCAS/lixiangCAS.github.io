@@ -71,6 +71,5 @@ George B. Nutt Fellowship, Department of Environmental Engineering and Earth Sci
 Yang Qin &VAG Scholarship of College of Environmental Science and Engineering, Tongji University	Sep. 2013
 
 ## Other profiles
-Google scholar
 
 [Research gate](https://www.researchgate.net/profile/Xiang-Li-282)
