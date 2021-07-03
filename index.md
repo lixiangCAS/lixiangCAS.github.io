@@ -7,7 +7,7 @@
 			<p><b>Email: lix@sari.ac.cn</b></p>
 		</td>
 		<td with="35%">
-			<img src="/IMG_5927.jpg" width="100%">
+			<img src="/IMG_5927.JPG" width="100%">
 		</td>
 	</tr>
 	</table>
