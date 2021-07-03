@@ -1,12 +1,12 @@
 <table border="0">
 	<tr>
-		<td width="75%">
+		<td width="65%">
 			<h1>LI Xiang</h1>
 			<p><b>Shanghai Advanced Research Institute, Chinese Academy of Sciences</b></p>
 			<p><b>Haike Road, No.99, Pudong New Area, Shanghai, China</b></p>
 			<p><b>Email: lix@sari.ac.cn</b></p>
 		</td>
-		<td with="25%">
+		<td with="35%">
 			<img src="/IMG_5927.jpg" width="100%">
 		</td>
 	</tr>
