@@ -26,7 +26,7 @@ Master of Science, Clemson University, USA              May. 2017
 Bachelor of Engineering, Tongji University, China       Jun. 2015
 
 ## Selected publications
-Xiang Li, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, Nishanth Tharayil, Jiale Huang, Yi Zheng, [“Degradation of aromatic compounds and lignin by marine protist Thraustochytrium striatum”](https://www.sciencedirect.com/science/article/pii/S1359511321001495), Process Biochemistry 107 (2021): 13-17.
+**Xiang Li**, Mi Li, Yunqiao Pu, Arthur J. Ragauskas, Nishanth Tharayil, Jiale Huang, Yi Zheng, [“Degradation of aromatic compounds and lignin by marine protist Thraustochytrium striatum”](https://www.sciencedirect.com/science/article/pii/S1359511321001495), Process Biochemistry 107 (2021): 13-17.
 
 Guilin Du, Guilong Zhang, Jiping Shi, Jingxian Zhang, Zhiguo Ma, Xiangcen Liu, Chenyang Yuan, Xiang Li*, and Baoguo Zhang*, ["Keystone Taxa Lactiplantibacillus and Lacticaseibacillus Directly Improve the Ensiling Performance and Microflora Profile in Co-Ensiling Cabbage Byproduct and Rice Straw"](https://www.mdpi.com/2076-2607/9/5/1099), Microorganisms 9, no. 5 (2021): 1099.
 
