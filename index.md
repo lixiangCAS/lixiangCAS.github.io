@@ -1,7 +1,7 @@
 <table border="0">
 	<tr>
 		<td width="65%">
-			<h1>LI Xiang</h1>
+			<h1>LI Xiang, PhD </h1>
 			<p><b>Shanghai Advanced Research Institute, Chinese Academy of Sciences</b></p>
 			<p><b>Haike Road, No.99, Pudong New Area, Shanghai, China</b></p>
 			<p><b>Email: lix@sari.ac.cn</b></p>
